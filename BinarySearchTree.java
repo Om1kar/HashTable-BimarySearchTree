@@ -34,5 +34,6 @@ public class BinarySearchTree {
 
     public void printData() {
         print(root);
+
     }
 }
